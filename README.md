@@ -1,4 +1,3 @@
-# html_first_assigment_answers
 <!DOCTYPE html>
 <html lang="en">
 <head>
